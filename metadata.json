@@ -1,0 +1,7 @@
+{
+  "name": "Yaman Vora - Senior Flutter Developer Portfolio",
+  "description": "A high-performance, professional portfolio website for Yaman Vora, featuring his expertise in Flutter development, enterprise applications, and cloud integrations.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
