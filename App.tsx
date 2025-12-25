@@ -24,7 +24,7 @@ const App: React.FC = () => {
       const handleScroll = () => {
         const sections = ['home', 'skills', 'experience', 'projects', 'education'];
         const scrollPosition = window.scrollY + 100;
-
+      // for exa 
         for (const section of sections) {
           const element = document.getElementById(section);
           if (element) {
